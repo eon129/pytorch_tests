@@ -1,0 +1,5 @@
+https://www.kaggle.com/harlfoxem/housesalesprediction
+https://www.kaggle.com/rtatman/datasets-for-regression-analysis
+	https://www.kaggle.com/mathchi/1-lr-mlr-pr-dt-rf-predict-data-calcofi
+
+https://www.kaggle.com/burhanykiyakoglu/k-nn-logistic-regression-k-fold-cv-from-scratch
